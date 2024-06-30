@@ -30,7 +30,7 @@ MeWell Chatbot is a powerful tool designed to provide mental support to the user
 
 - Install the required Python packages:
 
-'pip install -r requirements.txt'
+  >pip install -r requirements.txt
 
 - Access the HuggingFace access token and take permission to use it through huggingface.com
 
@@ -51,7 +51,7 @@ To get started with the MeWell Chatbot, you need to:
 
 - Start the bot by running the provided Python script or integrating it into your application.
 
- ## Start the chatbot application using Chainlit
+ ### Start the chatbot application using Chainlit
 
 `chainlit run final.py -w`
 
