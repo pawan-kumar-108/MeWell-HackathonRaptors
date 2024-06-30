@@ -1,5 +1,4 @@
-# MeWell Chatbot for Mental Well-being using RAG 
-### Prepared under the guidance of Hackathon Raptors Mentor
+# MeWell Chatbot for Mental Well-being using RAG
 
 MeWell Chatbot is a powerful tool designed to provide mental support to the user by understanding user queries using state-of-the-art language models and vector stores.
 
@@ -17,8 +16,8 @@ MeWell Chatbot is a powerful tool designed to provide mental support to the user
 - Clone this repository to your local machine.
 
 
-'git clone https://github.com/pawan-kumar-108/MeWell_MentalWellness.git'
-'cd MentalHack'
+>git clone https://github.com/pawan-kumar-108/MeWell_MentalWellness.git
+>cd MentalHack
 
 
 - Create a Python virtual environment (optional but recommended):
