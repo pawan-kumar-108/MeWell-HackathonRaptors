@@ -1,0 +1,7 @@
+farm-haystack[inference]
+datasets
+chainlit
+python-dotenv
+PyPDF2
+python-docx
+farm-haystack
