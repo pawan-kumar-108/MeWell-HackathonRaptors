@@ -17,13 +17,15 @@ MeWell Chatbot is a powerful tool designed to provide mental support to the user
 
 
 >git clone https://github.com/pawan-kumar-108/MeWell_MentalWellness.git
+>
 >cd MentalHack
 
 
 - Create a Python virtual environment (optional but recommended):
 
 ''' python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+source venv/bin/activate  
+#On Windows, use: venv\Scripts\activate
 '''
 
 - Install the required Python packages:
