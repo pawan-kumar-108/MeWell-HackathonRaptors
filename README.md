@@ -16,22 +16,28 @@ MeWell Chatbot is a powerful tool designed to provide mental support to the user
 - Clone this repository to your local machine.
 
 
->git clone https://github.com/pawan-kumar-108/MeWell_MentalWellness.git
->
->cd MentalHack
+```
+git clone https://github.com/pawan-kumar-108/MeWell_MentalWellness.git
 
+cd MentalHack
+```
 
 - Create a Python virtual environment (optional but recommended):
+```
+python -m venv venv
 
- >python -m venv venv
->
- >source venv/bin/activate  
- >#On Windows, use: venv\Scripts\activate
+source venv/bin/activate
+''' 
 
+#On Windows, use:
+```
+venv\Scripts\activate
+```
 
 - Install the required Python packages:
 
-  >pip install -r requirements.txt
+  ```pip install -r requirements.txt
+```
 
 - Access the HuggingFace access token and take permission to use it through huggingface.com
 
