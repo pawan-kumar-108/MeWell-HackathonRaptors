@@ -36,7 +36,8 @@ venv\Scripts\activate
 
 - Install the required Python packages:
 
-  ```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 - Access the HuggingFace access token and take permission to use it through huggingface.com
